@@ -18,4 +18,4 @@ $ pkg install git
 git clone https://github.com/mmbxoxo09/free
 ls
 cd free
-python 2009k.py
+python2 2009k.py
